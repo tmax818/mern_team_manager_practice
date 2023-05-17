@@ -13,3 +13,5 @@
 - [ ] NINJA BONUS: Create a popup to confirm deleting a player
 
 - [ ] SENSEI BONUS: Create the Player Status page
+
+# solution branch
